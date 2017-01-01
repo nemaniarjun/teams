@@ -60,8 +60,11 @@ Research
 __Team Leader:__ Udayan Tandon
 (udayan@coala.io)
 
-Work on new architecture for coala parts. Help with thesis writing and
-implementing algorithms for the science community.
+The Research team organizes and plans several aspects of coala. It is the
+team's responsibility is to draft coherent and precise proposals for
+enhancements to coala. These enhancements include architecture changes, novel
+algorithms for code analysis, and new extensions to coala.Furthermore, the team
+is responsible for coordinating and promoting more research activity in coala.
 
 
 Applications
